@@ -1,0 +1,73 @@
+body
+{
+  margin-top: 50px;
+  background: #333;
+  color: #999;
+}
+
+.image-bg
+{
+  text-align: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background: url('../img/scroll.jpg') no-repeat center center scroll;
+  padding: 20px 0;
+}
+
+.img-center
+{
+  margin: 0 auto;
+  height: 300px;
+}
+
+section
+{
+    padding: 20px 0;
+}
+
+.section-heading
+{
+    margin: 30px 0;
+    font-size: 4em;
+}
+
+.section-lead
+{
+    margin: 30px 0;
+}
+
+.section-paragraph
+{
+    margin: 30px 0;
+    text-align: justify;
+}
+
+.forward-options ul
+{
+    margin: 0;
+    padding: 0;
+    width: 600px;
+    list-style-type: none;
+}
+
+.forward-options ul li a
+{
+    text-decoration: none;
+    color: white;
+    padding: 10.5px 11px;
+    background-color: #454545;
+    display: block;
+}
+
+.forward-options ul li a:visited
+{
+    color: white;
+}
+
+.forward-options ul li a:hover, .menu_simple ul li .current
+{
+    color: white;
+    background-color: #666;
+}
