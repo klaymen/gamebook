@@ -22,7 +22,7 @@ A simple PHP gamebook application
 - MySQL 2.4.17
 
 ## demo
-A demo is available here: http://demos.spacebar.hu/gamebook/
+A short demo is available <a href="http://demos.spacebar.hu/gamebook/" target="_blank">HERE</a> 
 
 ## What is a gamebook?
 A gamebook is a work of printed fiction that allows the reader to participate in the story by making choices (https://en.wikipedia.org/wiki/Gamebook).
