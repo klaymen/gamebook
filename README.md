@@ -21,5 +21,8 @@ A simple PHP gamebook application
 - PHP 5.6.16
 - MySQL 2.4.17
 
+## demo
+A demo is available here: http://demos.spacebar.hu/gamebook/
+
 ## What is a gamebook?
 A gamebook is a work of printed fiction that allows the reader to participate in the story by making choices (https://en.wikipedia.org/wiki/Gamebook).
